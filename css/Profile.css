@@ -1,0 +1,22 @@
+.profile-container{
+	text-align: center;
+	padding-top: 5%;
+	color: grey;
+	width: 800px;
+	height: 200px;
+	background-color: white;
+	border-radius: 3em;
+	margin-left: 20%;
+	margin-top: 10%;
+}
+.hrefs{
+	text-decoration: none;
+	color: grey;	
+}
+.hrefs:hover{
+	color: black;
+}
+.form{
+	text-align: center;
+	margin-top: 10%
+}

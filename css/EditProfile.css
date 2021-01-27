@@ -1,0 +1,17 @@
+.EditProfile-form{
+	position: relative;
+	z-index: 1;
+	background: #ffffff;
+	max-width: 360px;
+	margin: 0 auto;
+	padding: 45px;
+	text-align: center; border-radius: 2em;
+}
+.EditProfile-container{
+	text-align: center;
+	/*background-color: grey;*/
+	width: 360px;
+	margin: auto;
+	padding-top: 10%;
+	
+}

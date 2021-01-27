@@ -1,0 +1,42 @@
+body{
+	margin:0px;
+	padding: 0px;
+	font-family: courier;
+}
+.header-container{
+	position: absolute; 
+	top: 0;
+	width: 100%;
+	display: flex;
+	background-color: #c8b096;
+	color: #787681;
+	
+}
+.logo-container{
+	width: 20%;
+	text-align: center;
+}
+.logo{
+	width: 25%;
+}
+.categories-container{
+	width: 80%;
+	text-align: center;
+	padding-top: 2%;
+
+}
+.categories{
+	padding-left: 35%;
+}
+.category{
+	color: #787681;
+	font-size: 20px;
+	text-decoration: none;
+	padding: 10px 20px 10px 20px;
+	/*font-family: montserrat;*/
+}
+.category:hover{
+	border-radius: 3em;
+	background-color: #f9b83a;
+	color: grey;
+}

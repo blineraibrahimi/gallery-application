@@ -1,0 +1,125 @@
+.Lorem1{
+    width: 100%;
+    height: 100%;
+    top:0px;
+    bottom: 0px;
+    z-index: -100;
+}
+.arts-container{
+
+}
+.comment-form{
+	width: 300px;
+	text-align: center;
+	background-color:#4f6371;
+	margin-top: 7%;
+	border-radius: 2em;
+	border: 1px solid grey;
+	padding-bottom: 20px;
+	margin-left: 8%;
+	float: left;
+	color: white;
+}
+.comment-form:hover{
+	box-shadow: 3px;
+	border: 1px solid black;
+	background-color: white;
+	color: black;
+}
+.comment-form1{
+	width: 300px;
+	text-align: center;
+	background-color:#4f6371;
+	margin-top: 3%;
+	border-radius: 2em;
+	border: 1px solid grey;
+	padding-bottom: 20px;
+	margin-left: 8%;
+	float: left;
+	color: white;
+}
+.comment-form1:hover{
+	box-shadow: 3px;
+	border: 1px solid black;
+	background-color: white;
+	color: black;
+}
+.comment-form2{
+	width: 300px;
+	text-align: center;
+	background-color:#4f6371;
+	margin-top: -15%;
+	border-radius: 2em;
+	border: 1px solid grey;
+	padding-bottom: 20px;
+	margin-left: 8%;
+	float: left;
+	color: white;
+}
+.comment-form2:hover{
+	box-shadow: 3px;
+	border: 1px solid black;
+	background-color: white;
+	color: black;
+}
+.comment-form3{
+	width: 300px;
+	text-align: center;
+	background-color:#4f6371;
+	margin-top: -7%;
+	border-radius: 2em;
+	border: 1px solid grey;
+	padding-bottom: 20px;
+	margin-left: 8%;
+	float: left;
+	color: white;
+}
+.comment-form3:hover{
+	box-shadow: 3px;
+	border: 1px solid black;
+	background-color: white;
+	color: black;
+}
+.username{
+	
+}
+.picture{
+	width: 200px;
+}
+.comment-container{
+	width: 100%;
+	text-align: center;
+	
+}
+.comment-input{
+	width: 1000px;
+	margin-bottom: 10px;
+	font-size: 18px;
+	padding: 5px;
+	border-radius: 3em;
+	border: solid grey 1px;
+	margin-top: 3%;
+}
+.post-comment-button{
+	background: none;
+	border: none;
+	padding: 10px 20px;
+	font-size: 18px;
+	border-radius: 3em;
+	color: #787681;
+	background-color: #c8b096;
+	margin-bottom: 10px;
+}
+
+.comment-area{
+
+}
+.comment-div{
+
+}
+.show-comments{
+margin-left: 13%;
+}
+.comment-table{
+	margin-left: 13%;
+}
